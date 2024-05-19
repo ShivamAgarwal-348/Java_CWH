@@ -1,4 +1,4 @@
-package CWH._060;
+// package CWH._060;
 abstract class Pen {
 
     abstract void write();
